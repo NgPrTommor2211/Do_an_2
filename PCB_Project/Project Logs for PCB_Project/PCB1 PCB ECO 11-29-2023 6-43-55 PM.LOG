@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VBAT Pin=SW5-3
+Added Pin To Net: NetName=VBAT Pin=JP2-1
+Added Pin To Net: NetName=VBAT Pin=SW5-2
+Added Member To Class: ClassName=MCU Member=Component C5 10uF
+Added Member To Class: ClassName=LCD Member=Component JP3 JP4
+Added Member To Class: ClassName=MCU Member=Component U1 STM32
+Added Room: Name=LCD
+Added Room: Name=LORA
+Added Room: Name=MCU
+Added Room: Name=POWER
+Added Room: Name=SENSOR
